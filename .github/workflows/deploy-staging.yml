@@ -10,6 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: sunilm4-azure-ttt
+  
   AZURE_WEBAPP_NAME: sunilm4-ttt-app
   ###############################################
 
